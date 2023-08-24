@@ -1,1 +1,20 @@
-hello world!
+Aug 23, 2023
+
+Hello world, my name is Ryan Posey! I am a rising student of The Odin Project,
+and I'm looking forward to learning more whilst studying the information provided
+in the curriculum. 
+
+My main goals are to become proficcient in web development, as well as to 
+excell in the development of mobile applications.
+
+I have a couple of strengths that may help me to reach my goals, one of which
+is my capability to learn information quickly, as well as my ability to think
+of ideas for applications, games, gadgets, etc. nearly on the spot! 
+
+However, no one is perfect, and there are certainly areas in which 
+I could build upon to further enhance my skillset.
+
+My biggest hobbies right now are playing video games, playing awesome 
+tunes on the piano, and, of course, I dabble in a bit of programming!
+
+-Ryan Posey
